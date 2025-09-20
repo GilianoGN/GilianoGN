@@ -43,6 +43,9 @@ Minhas habilidades se concentram no desenvolvimento de software, onde possuo pro
 * **Incompleto:** Licenciatura em Matemática na Universidade do Estado do Rio de Janeiro.
 * **Técnico:** Técnico em Estruturas Navais na Escola Técnica Estadual Henrique Laje.
 
+#### Linguagem mais usadas
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GilianoGN&hide=jupyter%20notebook&layout=donut)
+
 #### Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-giliano-gomes-novais/)
