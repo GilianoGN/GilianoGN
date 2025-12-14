@@ -47,6 +47,9 @@ Minhas habilidades se concentram no desenvolvimento de software, onde possuo pro
 * **Técnico:** 🚢  Técnico em Estruturas Navais na Escola Técnica Estadual Henrique Laje.
 ---
 
+> #### Projetos em Destaque
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GilianoGN&repo=Projeto_Arkanoid)](https://github.com/GilianoGN/Projeto_Arkanoid)
+
 > #### Linguagem mais usadas
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GilianoGN&hide=jupyter%20notebook&layout=donut)
 
