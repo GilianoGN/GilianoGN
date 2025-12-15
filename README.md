@@ -49,6 +49,8 @@ Minhas habilidades se concentram no desenvolvimento de software, onde possuo pro
 
 > #### Projetos em Destaque
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GilianoGN&repo=Projeto_Arkanoid)](https://github.com/GilianoGN/Projeto_Arkanoid)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GilianoGN&repo=sudokogame)](https://github.com/GilianoGN/sudokogame)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GilianoGN&repo=App-Buzzfeed-Angular)](https://github.com/GilianoGN/App-Buzzfeed-Angular)
 
 > #### Linguagem mais usadas
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GilianoGN&hide=jupyter%20notebook&layout=donut)
