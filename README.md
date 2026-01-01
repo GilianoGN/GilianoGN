@@ -11,10 +11,11 @@ Minhas habilidades se concentram no desenvolvimento de software, onde possuo pro
 **⚙️ Backend 🛠️**
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="15px"/>  Java 
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="15px"/>  Spring Framework (Spring Boot, Spring Security, Spring Web)
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="15px" /> .NET com C#
 * APIs REST
 * JPA / Hibernate e JDBC
 * SQL e Modelagem de Banco de Dados
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="15px"/>  MySQL e Postgre
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="15px"/>  MySQL, Postgre e SQL Server
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="15px"/>  NoSQL e MongoDB
 * Boas Práticas de Programação (SOLID, Clean Code, Design Patterns)
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="15px"/>  Testes Unitários com JUnit
@@ -34,7 +35,7 @@ Minhas habilidades se concentram no desenvolvimento de software, onde possuo pro
 
 **🤖 Outras Habilidades 📐**
 * AutoCAD 2D e 3D
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="15px"/>  Python e C# 
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="15px"/>  Python
 * IA Generativa e Engenharia de Prompt
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" width="15px"/>  Lógica de Programação e linguagens antigas (Visual Basic, Delphi, Pascal)
 * MS Office Avançado (Excell, Access, Power BI, Project)
