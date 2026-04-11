@@ -18,7 +18,7 @@ Minhas habilidades se concentram no desenvolvimento de software, onde possuo pro
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="15px"/>  MySQL, Postgre e SQL Server
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="15px"/>  NoSQL e MongoDB
 * Boas Práticas de Programação (SOLID, Clean Code, Design Patterns)
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="15px"/>  Testes Unitários com JUnit
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="15px"/>  Quality Assurance (QA) Testes Unitários, Teste Integração, E2E com JUnit e Jest
 
 **📱 Frontend 💻**
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="15px"/>  HTML5
