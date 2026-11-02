@@ -38,7 +38,7 @@ Busco oportunidades como **Desenvolvedor Java Júnior / Analista de Sistemas**, 
 
 ### 🎓 Formação Acadêmica
 *   **Análise e Desenvolvimento de Sistemas (CST)** | Anhanguera Educacional (Cursando).
-*   **Licenciatura em Matemática** | UERJ (Faculdade de Formação de Professores (Trancado).
+*   **Licenciatura em Matemática** | UERJ (Faculdade de Formação de Professores - Trancado).
 *   **Formação Técnica em Estruturas Navais** | ETE Henrique Lage.
 *   **DIO Global** | Digital Innovation One
 
